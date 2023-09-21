@@ -1,0 +1,21 @@
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 20px;
+    padding-right: 60px;
+    padding-left: 80px;
+}
+ 
+img{
+    padding-right: 60px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+    border: 10px solid blue;
+    background-color: blue;
+  
+}
+h4{
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
